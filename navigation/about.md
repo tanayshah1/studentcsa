@@ -21,7 +21,7 @@ Creator of Student 2025
 
 # Robotics Pictures
 
-| <img src="https://i.ibb.co/pfWGYN7/IMG-5455-2.jpg" width = auto height = 600px > | ![image 2](https://i.ibb.co/4sR7S69/20230815-192023.jpg) |
+| <img src="https://i.ibb.co/VVCc0M3/IMG-5455-1.jpg"> | ![image 2](https://i.ibb.co/4sR7S69/20230815-192023.jpg) |
 |:---:|:---:|
 |Me with several robots I've built.| Several awards I've won in robotics.|
 
