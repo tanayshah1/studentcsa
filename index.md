@@ -17,11 +17,11 @@ hide: true
     margin: 0;
   }
   body {
-    background: black;
+    background: white;
     display: flex;
   }
   canvas {
-    border: 1px solid white;
+    border: 5px solid white;
   }
   </style>
 </head>
