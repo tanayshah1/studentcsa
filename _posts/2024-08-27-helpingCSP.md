@@ -8,7 +8,7 @@ comments: True
 
 ## Deleting the Nighthawk Directory
 
-<img src="https://i.ibb.co/SrcbBSr/Screenshot-2024-08-27-at-8-44-39-AM.png">
+<img src="https://i.ibb.co/nbq6FwB/Screenshot-2024-08-27-at-8-44-39-AM.png">
 
 ## Recreated repository: 
 
@@ -17,5 +17,6 @@ comments: True
 # Helping CSP Students
 
 <img src="https://i.ibb.co/68BqYjx/IMG-9362.jpg">
+<img src="{{site.baseurl}}/images/quiz.png">
 
 So we helped Jackson and Brandon delete, restore, and set up their repos. However they both had some pretty major issues from before and hence we were unable to complete the task. Nevertheless we helped teach them not only about the specific commands but also the SDLC, how their computers are set up and any other questions they had. We had a lot of fun, and we hope they did as well!
