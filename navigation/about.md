@@ -9,15 +9,15 @@ Creator of Student 2025
 
 ## Tanay Shah's Webpage
 
-| | This is my CSA website. This is the home page - learn more about me. | |
+This is my CSA website. This is the home page - learn more about me. 
 
 # About me
 
-| | I am a junior at Del Norte High School. I am a 11th grader at Del Norte High School in San Diego. While other 4-year-olds wanted to be Superman or Spiderman, I wanted to be "All The Mans"! | |
+I am a junior at Del Norte High School. I am a 11th grader at Del Norte High School in San Diego. While other 4-year-olds wanted to be Superman or Spiderman, I wanted to be "All The Mans"!
 
-| | This thirst for trying and learning new things has led me to tinker with various interests ranging from robotics to hip-hop dance to piano (that last one didn't quite pan out :) ). I have won several State and Regional awards with FIRST Lego League, VexIQ, and FIRST Tech Challenge robotics competitions and has been invited to be a keynote speaker for Altitude Learning and the D39X Educational Summit. | | 
+This thirst for trying and learning new things has led me to tinker with various interests ranging from robotics to hip-hop dance to piano (that last one didn't quite pan out :) ). I have won several State and Regional awards with FIRST Lego League, VexIQ, and FIRST Tech Challenge robotics competitions and has been invited to be a keynote speaker for Altitude Learning and the D39X Educational Summit.
 
-| | I balance my interests with wanting to help my friends and my school get to the next level. In the years to come, Tanay hopes to be a roboticist or an entrepreneur. In my spare time, I like to play football, golf, and video games! My favorite tag line - Carpe Diem!! | | 
+I balance my interests with wanting to help my friends and my school get to the next level. In the years to come, Tanay hopes to be a roboticist or an entrepreneur. In my spare time, I like to play football, golf, and video games! My favorite tag line - Carpe Diem!!  
 
 # Robotics Pictures
 
