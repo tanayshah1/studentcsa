@@ -9,60 +9,64 @@ type: issues
     background-color: #1a1a1a; /* Dark background */
     color: white; /* White font */
     font-family: 'Helvetica Neue', sans-serif;
-    line-height: 1.6;
     margin: 0;
     padding: 0;
   }
 
   .section {
     background-color: #282828;
-    padding: 20px;
-    margin: 20px;
+    padding-bottom: 10px; /* Minimal padding */
+    padding-right: 10px; 
+    padding-left: 10px; 
+    margin: 15px;
     border-radius: 15px;
     box-shadow: 0 0 20px rgba(0, 128, 255, 0.4); /* Faint blue shadow */
     animation: pulse 2.5s infinite; /* Constant pulsing animation */
   }
 
+  h1, h2, h3, p {
+    margin: 5px 0; /* Reduced margin to bring text closer to the top */
+    padding: 10px; /* No padding */
+    line-height: 1.2; /* Reduced line-height for tighter text */
+    text-align: center;
+  }
+
+  /* Animation for the box shadow */
   @keyframes pulse {
     0% {
       box-shadow: 0 0 20px rgba(0, 128, 255, 0.4);
     }
     50% {
-      box-shadow: 0 0 30px rgba(0, 128, 255, 0.6); /* Increase intensity */
+      box-shadow: 0 0 30px rgba(0, 128, 255, 0.6);
     }
     100% {
-      box-shadow: 0 0 20px rgba(0, 128, 255, 0.4); /* Return to normal */
+      box-shadow: 0 0 20px rgba(0, 128, 255, 0.4);
     }
-  }
-
-  h1, h2, h3, p {
-    text-align: center;
-    padding: 10px;
   }
 
   /* Grid styling */
   .grid-container {
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    gap: 20px;
-    padding: 20px;
+    grid-template-columns: repeat(3, 1fr); /* Flag, arrow, flag layout */
+    gap: 10px;
+    padding: 0; /* Remove extra padding */
   }
 
   .grid-item {
     text-align: center;
-    padding: 20px;
   }
 
   .grid-item img {
-    width: 100%;
+    width: 150px; /* Adjust flag size */
     height: auto;
     border-radius: 10px;
   }
 
-  /* Add pulsing shadow to grid items as well */
-  .grid-item {
-    box-shadow: 0 0 15px rgba(0, 128, 255, 0.4);
-    animation: pulse 2.5s infinite;
+  /* Arrow styling */
+  .arrow img {
+    width: 150px; /* Arrow size matching flag size */
+    height: auto;
+    margin-top: 30px; /* Fine-tune arrow positioning */
   }
 
   table {
@@ -73,20 +77,11 @@ type: issues
   }
 
   table th, table td {
-    padding: 10px;
+    padding: 5px; /* Reduced padding in table cells */
     border: 1px solid white;
   }
-
-  /* Arrow styling (Bigger size, no pulse) */
-  .arrow img {
-    width: 200px; /* Adjust to be similar in size to the flags */
-    height: auto;
-    margin-top: -20px;
-    /* No pulsing effect for the arrow */
-    box-shadow: none;
-  }
-
 </style>
+
 
 <div class="section">
   <h1>Tanay Shah's Webpage</h1>
@@ -188,3 +183,49 @@ type: issues
     </tr>
   </table>
 </div>
+
+
+
+# Robotics Pictures
+
+| <img src="https://i.ibb.co/VVCc0M3/IMG-5455-1.jpg"> | ![image 2](https://i.ibb.co/4sR7S69/20230815-192023.jpg) |
+|:---:|:---:|
+|Me with several robots I've built.| Several awards I've won in robotics.|
+
+# My FreeForm Picture
+
+| <img src="https://i.ibb.co/DRW1kwQ/IMG-5502.jpg" width = auto height = 600px > |
+|:---:|:---:|
+|This is the freeform picture that I created on the top left, there are 3 people showing the three people in my family. Under that, there is the Indian flag merged with the American flag showing my mixed cultural heritage. Then I have a football and golf since I enjoy playing those sports.|
+
+## My Class Schedule
+
+<table style="border-collapse: collapse; width: 50%;">
+  <tr>
+    <th style="border: 1px solid white; padding: 8px;">Period</th>
+    <th style="border: 1px solid white; padding: 8px;">Class</th>
+  </tr>
+  <tr>
+    <td style="border: 1px solid white; padding: 8px;">1</td>
+    <td style="border: 1px solid white; padding: 8px;">AP CSA</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid white; padding: 8px;">2</td>
+    <td style="border: 1px solid white; padding: 8px;">APEL</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid white; padding: 8px;">3</td>
+    <td style="border: 1px solid white; padding: 8px;">United States History</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid white; padding: 8px;">4</td>
+    <td style="border: 1px solid white; padding: 8px;">AP Bio</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid white; padding: 8px;">5</td>
+    <td style="border: 1px solid white; padding: 8px;">AP Physics</td>
+  </tr>
+
+
+
+
