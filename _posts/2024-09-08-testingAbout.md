@@ -3,7 +3,6 @@ layout: page
 title: Testing About Me Page
 type: issues
 --- 
-
 <style>
   body {
     background-color: #1a1a1a; /* Dark background */
@@ -57,28 +56,61 @@ type: issues
   }
 
   .grid-item img {
-    width: 150px; /* Adjust flag size */
+    width: 250px; /* Increased flag size */
     height: auto;
     border-radius: 10px;
   }
 
   /* Arrow styling */
   .arrow img {
-    width: 150px; /* Arrow size matching flag size */
+    width: 250px; /* Adjust arrow size to match flags */
     height: auto;
     margin-top: 30px; /* Fine-tune arrow positioning */
   }
 
   table {
-    width: 50%;
+    width: 70%; /* Increased table width for robotics pictures */
     margin: 20px auto;
     border-collapse: collapse;
     text-align: center;
   }
 
   table th, table td {
-    padding: 5px; /* Reduced padding in table cells */
+    padding: 10px; /* Increased padding for better spacing */
     border: 1px solid white;
+  }
+
+  /* Styling for robotics pictures */
+  .robotics-pictures img {
+    width: 400px; /* Increased image size */
+    height: auto;
+    border-radius: 10px;
+  }
+
+  /* Center the India flag */
+  .india-flag {
+    display: flex;
+    justify-content: center; /* Center horizontally */
+    margin-top: 20px; /* Add some space above */
+  }
+
+  .india-flag img {
+    width: 250px; /* Adjust flag size */
+    height: auto;
+    border-radius: 10px;
+  }
+
+  /* Center the freeform picture */
+  .freeform-picture {
+    display: flex;
+    justify-content: center; /* Center horizontally */
+    margin-top: 20px;
+  }
+
+  .freeform-picture img {
+    height: 600px; /* Adjust height if needed */
+    width: auto;
+    border-radius: 10px;
   }
 </style>
 
@@ -101,7 +133,6 @@ type: issues
     and have been invited to be a keynote speaker for Altitude Learning and the D39X Educational Summit.
   </p>
 </div>
-
 <div class="section">
   <h2>Who Am I?</h2>
   <p>
@@ -113,26 +144,34 @@ type: issues
   <!-- Grid with Arrow Between Orange County and San Diego -->
   <div class="grid-container">
     <div class="grid-item">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Flag_of_Orange_County%2C_California.svg/1599px-Flag_of_Orange_County%2C_California.svg.png" alt="Orange County Flag">
+      <a href="OCPics.html">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Flag_of_Orange_County%2C_California.svg/1599px-Flag_of_Orange_County%2C_California.svg.png" alt="Orange County Flag">
+      </a>
       <p>Born in Orange County - forever my home and friends</p>
     </div>
     <div class="grid-item arrow">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Arrow_White_east.svg/1600px-Arrow_White_east.svg.png" alt="Arrow">
     </div>
     <div class="grid-item">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Flag_of_San_Diego_Goverment_Variant.svg/1600px-Flag_of_San_Diego_Goverment_Variant.svg.png" alt="San Diego Flag">
+      <a href="SDPics.html">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Flag_of_San_Diego_Goverment_Variant.svg/1600px-Flag_of_San_Diego_Goverment_Variant.svg.png" alt="San Diego Flag">
+      </a>
       <p>San Diego - my new home (not so new, it's been 10 years)</p>
     </div>
   </div>
 
   <!-- Separate Row for India Flag -->
-  <div class="grid-container">
+  <div class="grid-container india-flag">
     <div class="grid-item">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_India.svg/1599px-Flag_of_India.svg.png" alt="India Flag">
+      <a href="IPics.html">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_India.svg/1599px-Flag_of_India.svg.png" alt="India Flag">
+      </a>
       <p>Indian American but India first</p>
     </div>
   </div>
 </div>
+
+
 
 <div class="section">
   <h2>Robotics Pictures</h2>
@@ -150,7 +189,9 @@ type: issues
 
 <div class="section">
   <h2>My Freeform Picture</h2>
-  <img src="https://i.ibb.co/DRW1kwQ/IMG-5502.jpg" width="auto" height="600px" alt="Freeform Picture">
+  <div class="freeform-picture">
+    <img src="https://i.ibb.co/DRW1kwQ/IMG-5502.jpg" alt="Freeform Picture">
+  </div>
   <p>This is the freeform picture that I created, representing my family and my mixed cultural heritage.</p>
 </div>
 
@@ -183,49 +224,3 @@ type: issues
     </tr>
   </table>
 </div>
-
-
-
-# Robotics Pictures
-
-| <img src="https://i.ibb.co/VVCc0M3/IMG-5455-1.jpg"> | ![image 2](https://i.ibb.co/4sR7S69/20230815-192023.jpg) |
-|:---:|:---:|
-|Me with several robots I've built.| Several awards I've won in robotics.|
-
-# My FreeForm Picture
-
-| <img src="https://i.ibb.co/DRW1kwQ/IMG-5502.jpg" width = auto height = 600px > |
-|:---:|:---:|
-|This is the freeform picture that I created on the top left, there are 3 people showing the three people in my family. Under that, there is the Indian flag merged with the American flag showing my mixed cultural heritage. Then I have a football and golf since I enjoy playing those sports.|
-
-## My Class Schedule
-
-<table style="border-collapse: collapse; width: 50%;">
-  <tr>
-    <th style="border: 1px solid white; padding: 8px;">Period</th>
-    <th style="border: 1px solid white; padding: 8px;">Class</th>
-  </tr>
-  <tr>
-    <td style="border: 1px solid white; padding: 8px;">1</td>
-    <td style="border: 1px solid white; padding: 8px;">AP CSA</td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid white; padding: 8px;">2</td>
-    <td style="border: 1px solid white; padding: 8px;">APEL</td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid white; padding: 8px;">3</td>
-    <td style="border: 1px solid white; padding: 8px;">United States History</td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid white; padding: 8px;">4</td>
-    <td style="border: 1px solid white; padding: 8px;">AP Bio</td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid white; padding: 8px;">5</td>
-    <td style="border: 1px solid white; padding: 8px;">AP Physics</td>
-  </tr>
-
-
-
-
