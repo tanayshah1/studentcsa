@@ -60,6 +60,12 @@ permalink: /about/
     width: 250px; /* Increased flag size */
     height: auto;
     border-radius: 10px;
+    transition: box-shadow 0.3s ease; /* Smooth transition for hover effect */
+  }
+
+  /* Glow effect on hover */
+  .grid-item img:hover {
+    box-shadow: 0 0 30px rgba(0, 128, 255, 0.6); /* Glow effect on hover */
   }
 
   /* Arrow styling */
@@ -67,25 +73,6 @@ permalink: /about/
     width: 250px; /* Adjust arrow size to match flags */
     height: auto;
     margin-top: 30px; /* Fine-tune arrow positioning */
-  }
-
-  table {
-    width: 70%; /* Increased table width for robotics pictures */
-    margin: 20px auto;
-    border-collapse: collapse;
-    text-align: center;
-  }
-
-  table th, table td {
-    padding: 10px; /* Increased padding for better spacing */
-    border: 1px solid white;
-  }
-
-  /* Styling for robotics pictures */
-  .robotics-pictures img {
-    width: 400px; /* Increased image size */
-    height: auto;
-    border-radius: 10px;
   }
 
   /* Center the India flag */
@@ -99,19 +86,11 @@ permalink: /about/
     width: 250px; /* Adjust flag size */
     height: auto;
     border-radius: 10px;
+    transition: box-shadow 0.3s ease; /* Smooth transition for hover effect */
   }
 
-  /* Center the freeform picture */
-  .freeform-picture {
-    display: flex;
-    justify-content: center; /* Center horizontally */
-    margin-top: 20px;
-  }
-
-  .freeform-picture img {
-    height: 600px; /* Adjust height if needed */
-    width: auto;
-    border-radius: 10px;
+  .india-flag img:hover {
+    box-shadow: 0 0 30px rgba(0, 128, 255, 0.6); /* Glow effect on hover */
   }
 </style>
 
