@@ -92,6 +92,10 @@ permalink: /about/
   .india-flag img:hover {
     box-shadow: 0 0 30px rgba(0, 128, 255, 0.6); /* Glow effect on hover */
   }
+
+  .freeform-picture { 
+    justify-content: center; /* Center horizontally */
+  }
 </style>
 
 
