@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Tools Checklist 
-comments: true
-hide: false
+comments: True
 ---
 
 # Hacks and tools
