@@ -145,7 +145,7 @@ permalink: /about/
   <!-- Grid with Arrow Between Orange County and San Diego -->
   <div class="grid-container">
     <div class="grid-item">
-      <a href="OCPics.html">
+      <a href="{{site.baseurl}}/OCPics">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Flag_of_Orange_County%2C_California.svg/1599px-Flag_of_Orange_County%2C_California.svg.png" alt="Orange County Flag">
       </a>
       <p>Born in Orange County - forever my home and friends</p>
@@ -154,7 +154,7 @@ permalink: /about/
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Arrow_White_east.svg/1600px-Arrow_White_east.svg.png" alt="Arrow">
     </div>
     <div class="grid-item">
-      <a href="SDPics.html">
+      <a href="{{site.baseurl}}/SDPics">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Flag_of_San_Diego_Goverment_Variant.svg/1600px-Flag_of_San_Diego_Goverment_Variant.svg.png" alt="San Diego Flag">
       </a>
       <p>San Diego - my new home (not so new, it's been 10 years)</p>
@@ -164,7 +164,7 @@ permalink: /about/
   <!-- Separate Row for India Flag -->
   <div class="grid-container india-flag">
     <div class="grid-item">
-      <a href="IPics.html">
+      <a href="{{site.baseurl}}/IPics">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_India.svg/1599px-Flag_of_India.svg.png" alt="India Flag">
       </a>
       <p>Indian American but India first</p>
