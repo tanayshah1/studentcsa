@@ -17,11 +17,11 @@ Notes:
 
 
 # Github Pages playground
-[New tools(Java 17 and Java Kernel)](https://imaad08.github.io/studentcsa/pagesplayground/)
+[New tools(Java 17 and Java Kernel)](https://tanayshah1.github.io/studentcsa/2024/09/08/weather.html)
 
 
-# Jupyter Hacks
-[Jupyter Hacks](https://imaad08.github.io/studentcsa/jupyterhacks/)
+# Feature Hacks
+[Jupyter Hacks](https://tanayshah1.github.io/studentcsa/2024/09/08/toDolist.html) 
 
 
 # Frontend Hacks
