@@ -21,7 +21,7 @@ Notes:
 
 
 # Feature Hacks
-[Jupyter Hacks](https://tanayshah1.github.io/studentcsa/2024/09/08/toDolist.html) 
+[Feature Hacks](https://tanayshah1.github.io/studentcsa/2024/09/08/toDoList.html) 
 
 
 # Frontend Hacks
