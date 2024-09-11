@@ -171,7 +171,7 @@ type: issues
   </div>
 </div>
 
-
+  
 
 <div class="section">
   <h2>Robotics Pictures</h2>
