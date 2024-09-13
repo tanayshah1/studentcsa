@@ -23,3 +23,5 @@ comments: True
 <img src="https://i.ibb.co/K7rz9Wq/Screenshot-2024-08-26-at-10-53-45-PM.png">
 
 <img src="https://i.ibb.co/5r2Kjwt/Screenshot-2024-08-26-at-10-53-57-PM.png">
+
+<img src="{{site.baseurl}}/images/pythoncheck.png">
