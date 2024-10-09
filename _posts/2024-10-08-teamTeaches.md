@@ -16,4 +16,4 @@ Unit 5 - https://imaad08.github.io/NITD_frontend/csa/period1/unit5/game
 Unit 6 - https://tanayshah1.github.io/studentcsa/csa/unit6-p1/
 Unit 7 - https://tanayshah1.github.io/studentcsa/csa/unit7-p1/unit7-1
 Unit 8 - https://tanayshah1.github.io/studentcsa/unit8lesson-p1-accessing-updating
-Unit 9 -
+Unit 9 - https://tanayshah1.github.io/studentcsa/inheritance-hacks
