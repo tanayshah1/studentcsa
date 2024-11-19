@@ -7,6 +7,8 @@ comments: true
 
 I got a 33/44 which puts me in a 4 range. I am pretty happy with this score but do see room to improve. I hope over this trimester to improve my grade up to the 5 standard. 
 
+<img src="{{site.baseurl}}/images/cbquizscore.png" width = 500px height = auto alt="Image 1">
+
 I got a total of 7 questions wrong: 
 
 ### Question 8: 
