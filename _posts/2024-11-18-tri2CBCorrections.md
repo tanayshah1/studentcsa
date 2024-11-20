@@ -7,7 +7,7 @@ comments: true
 
 I got a 33/44 which puts me in a 4 range. I am pretty happy with this score but do see room to improve. I hope over this trimester to improve my grade up to the 5 standard. 
 
-<img src="{{site.baseurl}}/images/cbquizscore.png" width = 500px height = auto alt="Image 1">
+<img src="{{site.baseurl}}/images/cbquizscore.png" width = 500px height = auto alt="Image 15">
 
 I got a total of 7 questions wrong: 
 
@@ -15,7 +15,8 @@ I got a total of 7 questions wrong:
 
 <img src="{{site.baseurl}}/images/cbquestion8.png" width = 500px height = auto alt="Image 1">
 
-I chose D (I and III only), but that answer is incorrect because the third declaration, Student c = new Student("Juan", "15");, does not match any of the constructors defined in the Student class. The class only includes a no-argument constructor (Student()) and a parameterized constructor that takes a String and an int (Student(String name, int age)). However, Student("Juan", "15") passes two String arguments, and there is no constructor in the class that accepts this combination, which causes a compilation error.
+
+I chose D (I and III only), but that answer is incorrect because the third declaration, Student c = new Student("Juan", "15");, does not match any of the constructors defined in the Student class. The class only includes a no-argument constructor (Student()) and a parameterized constructor that takes a String and an int (Student(String name, int age)). However, Student("Juan", "15") passes two String arguments, and there is no constructor in the class that accepts this combination, which causes a compilation error. 
 
 The correct answer is C (I and II only) because both Student a = new Student(); and Student b = new Student("Juan", 15); match the defined constructors and compile successfully. This mistake happened because I didn’t carefully check that the argument types in the third declaration matched the constructor signatures. Going forward, I’ll pay closer attention to the number, type, and order of arguments when evaluating constructor calls.
 
@@ -94,3 +95,7 @@ Thus, both x < 6 (option I) and x < 7 (option III) correctly generate the desire
 
 - I could review team teach unit 3
 - review this [link](https://www.geeksforgeeks.org/java-logical-operators-with-examples/)
+
+test
+ahduiashdiahsduiahsudhasuidhasuhduiashdiuahsdui
+asdhuahduashdiauhsduhasduihaishdiasuhdiahuashduashdaiushdaisuhdasuhdaushd
