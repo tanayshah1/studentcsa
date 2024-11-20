@@ -96,6 +96,11 @@ Thus, both x < 6 (option I) and x < 7 (option III) correctly generate the desire
 - I could review team teach unit 3
 - review this [link](https://www.geeksforgeeks.org/java-logical-operators-with-examples/)
 
-test
-ahduiashdiahsduiahsudhasuidhasuhduiashdiuahsdui
-asdhuahduashdiauhsduhasduihaishdiasuhdiahuashduashdaiushdaisuhdasuhdaushd
+### CB Analytics
+
+<img src="{{site.baseurl}}/images/2014cbanalytics.png" width = 500px height = auto alt="Analytics">
+
+- I need to study unit 9
+- there was one question and i got that one question wrong
+- Next i need to study unit 2 and 7, as i got a 75% accuracy rate 
+- I am happy that I aced my own team teach and units 5, 8, 10
