@@ -6,11 +6,28 @@ comments: True
 permakink: /selfreflection
 ---
 
-Over the past trimester in CSA, I worked on various projects that challenged my coding skills and collaboration abilities. One of the most significant tasks I tackled was creating a universal theme for the Nighthawk Coders repository. At first, I thought this would be a relatively straightforward process, but I quickly realized it was more complex than I had anticipated.
+- **Projects Completed**:
+  - Worked on creating a universal theme for the Nighthawk Coders repository.
+  - Developed both the backend and frontend for the stock project.
+  - Took on the role of product lead, overseeing a team and guiding them toward our goals.
 
-One of the biggest challenges was coordinating with other groups to ensure consistency across different parts of the project. There were delays and moments of frustration when our progress stalled due to miscommunication or conflicting ideas. Despite these setbacks, I learned valuable lessons about teamwork, adaptability, and problem-solving. Debugging issues and refining the theme required patience and persistence, and I gained a deeper understanding of how real-world coding projects involve more than just writing functional code—it’s about integration, collaboration, and refining details to create a cohesive final product.
+- **Challenges Faced**:
+  - Coordinating with other groups to ensure consistency across different parts of the project.
+  - Dealing with delays and miscommunication, which caused frustration and stalled progress.
+  - Managing complex projects and debugging issues, requiring patience and persistence.
 
-Beyond this, I am especially proud of the work I did on both the backend and frontend for our stock project. Developing both aspects gave me a well-rounded experience and strengthened my skills in full-stack development. Additionally, taking on the role of a product lead was a rewarding experience, as it pushed me to step up in a leadership capacity and help guide the team toward our goals.
+- **Lessons Learned**:
+  - Teamwork, adaptability, and problem-solving were essential in overcoming setbacks.
+  - Real-world coding projects involve more than just writing functional code; they require integration, collaboration, and refining details for a cohesive final product.
+  - Gained experience in full-stack development, especially in backend and frontend aspects of projects.
 
-Looking back, even though the process was difficult, I am proud of what we accomplished. The final theme not only looked polished but also helped bring uniformity to the repository, making it easier to navigate and visually appealing. However, I recognize that there are areas I need to improve upon, particularly meeting deadlines and long-term planning. There were moments where last-minute scrambles could have been avoided with better organization and foresight. Moving forward, I plan to take these lessons with me, improving how I communicate with teammates, manage complex projects more efficiently, and structure my workflow to ensure smoother execution of tasks.
+- **Reflection on Leadership**:
+  - The product lead role was rewarding and helped me develop leadership skills.
+  - I learned how to guide a team, set goals, and contribute to the overall success of the project.
 
+- **Areas for Improvement**:
+  - Recognized the need for better organization, long-term planning, and meeting deadlines.
+  - Last-minute scrambles could have been avoided with improved foresight and planning.
+
+- **Future Goals**:
+  - Plan to improve communication with teammates, manage projects more efficiently, and structure my workflow to ensure smoother execution in the future.

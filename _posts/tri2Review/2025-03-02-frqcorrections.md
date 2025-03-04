@@ -293,34 +293,42 @@ class ScoreInfo {
 ```
 
 # 2014 Takeaways 
-Key Takeaways from This FRQ (Stats & ScoreInfo Classes)
-    1    Understanding Data Storage in Sorted Order
-    ◦    The scoreList (an ArrayList<ScoreInfo>) must maintain scores in increasing order.
-    ◦    No duplicate ScoreInfo objects should exist for the same score; instead, their frequency is incremented.
-    2    Proper Handling of the record Method
-    ◦    If the score already exists in the list, increment its frequency.
-    ◦    If the score does not exist, insert a new ScoreInfo object at the correct position to maintain sorted order.
-    ◦    The method should return true if a new score is added, false if an existing score is updated.
-    3    Efficiently Inserting a Score into a Sorted List
-    ◦    Use a loop to find the correct insertion point.
-    ◦    If the list is traversed and no larger value is found, append the score at the end.
-    4    Iterating Over an Array in recordScores
-    ◦    The recordScores method should call record for each score in the array to ensure all scores are properly inserted or updated in the database.
-    5    Encapsulation in Object-Oriented Programming
-    ◦    ScoreInfo encapsulates a score and its frequency with getScore(), getFrequency(), and increment().
-    ◦    The Stats class is responsible for managing a collection of ScoreInfo objects.
-    6    Edge Cases to Consider
-    ◦    If scoreList is empty, the first score should be added directly.
-    ◦    If the new score is less than all existing scores, it should be inserted at index 0.
-    ◦    If the new score is greater than all existing scores, it should be appended at the end.
-    ◦    Ensure no duplicate ScoreInfo objects exist; only the frequency should be updated.
-AP Exam Tips Based on This FRQ
-✅ Follow the method contract – Return the correct boolean values in record.
-✅ Think about efficiency – Finding the correct insertion point should ideally take O(n) time.
-✅ Test edge cases – Try inserting at the beginning, middle, and end of scoreList.
-✅ Use helper methods when needed – recordScores relies on record, reducing redundant code.
-✅ Maintain proper encapsulation – Avoid modifying ScoreInfo directly outside its class.
-This FRQ mainly tests your ability to work with ArrayLists, maintain order, and properly update data—important skills for the AP CS A exam! 🚀
+- **Key Takeaways from This FRQ (Stats & ScoreInfo Classes)**:
+  1. **Understanding Data Storage in Sorted Order**:
+     - The `scoreList` (an `ArrayList<ScoreInfo>`) must maintain scores in increasing order.
+     - No duplicate `ScoreInfo` objects should exist for the same score; instead, their frequency is incremented.
+  
+  2. **Proper Handling of the `record` Method**:
+     - If the score already exists in the list, increment its frequency.
+     - If the score does not exist, insert a new `ScoreInfo` object at the correct position to maintain sorted order.
+     - The method should return true if a new score is added, false if an existing score is updated.
+
+  3. **Efficiently Inserting a Score into a Sorted List**:
+     - Use a loop to find the correct insertion point.
+     - If the list is traversed and no larger value is found, append the score at the end.
+
+  4. **Iterating Over an Array in `recordScores`**:
+     - The `recordScores` method should call `record` for each score in the array to ensure all scores are properly inserted or updated in the database.
+
+  5. **Encapsulation in Object-Oriented Programming**:
+     - `ScoreInfo` encapsulates a score and its frequency with `getScore()`, `getFrequency()`, and `increment()`.
+     - The `Stats` class is responsible for managing a collection of `ScoreInfo` objects.
+
+  6. **Edge Cases to Consider**:
+     - If `scoreList` is empty, the first score should be added directly.
+     - If the new score is less than all existing scores, it should be inserted at index 0.
+     - If the new score is greater than all existing scores, it should be appended at the end.
+     - Ensure no duplicate `ScoreInfo` objects exist; only the frequency should be updated.
+
+- **AP Exam Tips Based on This FRQ**:
+  - ✅ Follow the method contract – Return the correct boolean values in `record`.
+  - ✅ Think about efficiency – Finding the correct insertion point should ideally take O(n) time.
+  - ✅ Test edge cases – Try inserting at the beginning, middle, and end of `scoreList`.
+  - ✅ Use helper methods when needed – `recordScores` relies on `record`, reducing redundant code.
+  - ✅ Maintain proper encapsulation – Avoid modifying `ScoreInfo` directly outside its class.
+
+- **Skills Tested**:
+  - Working with `ArrayLists`, maintaining order, and properly updating data are important skills for the AP CS A exam! 🚀
 
 # 2015 FRQ
 ```java
@@ -495,6 +503,26 @@ class SparseArrayEntry {
 ```
 
 # 2015 Takeaways: 
-The 2015 AP CSA FRQ emphasized core object-oriented programming concepts, including interfaces, encapsulation, list manipulation, and efficient data storage. The first question, Diverse Array, required iterating through 2D arrays, using helper methods to check for unique row sums. The second question, HiddenWord, focused on string processing, where characters were evaluated based on exact matches, partial matches, or absence in the hidden word. This required looping through characters and using conditionals to construct a formatted hint efficiently. Both questions reinforced methodical iteration and condition handling, two essential skills for writing structured programs.
-The third and fourth FRQs tested data abstraction and polymorphism. The SparseArray problem required understanding efficient storage of nonzero elements, utilizing a list of objects instead of a full 2D array. The removeColumn method introduced safe list modification using iterators and index shifting. Meanwhile, NumberGroup & MultipleGroups focused on interfaces and polymorphism, showcasing how an interface can unify different implementations while ensuring flexibility. The use of lists in MultipleGroups to manage various ranges highlighted the power of dynamic collections in Java. These FRQs reinforced the importance of modular design, encapsulation, and efficient data manipulation, all of which are critical for success in the AP exam and real-world programming. :rocket:
+  - Emphasized core object-oriented programming concepts such as interfaces, encapsulation, list manipulation, and efficient data storage.
+
+- **First Question (Diverse Array)**:
+  - Involved iterating through 2D arrays and using helper methods to check for unique row sums.
+
+- **Second Question (HiddenWord)**:
+  - Focused on string processing, evaluating characters based on exact matches, partial matches, or absence in the hidden word.
+  - Required looping through characters and using conditionals to construct a formatted hint efficiently.
+
+- **Skills Reinforced**:
+  - Methodical iteration and condition handling, critical skills for writing structured programs.
+
+- **Third and Fourth FRQs**:
+  - **SparseArray**: Focused on efficient storage of nonzero elements, utilizing a list of objects instead of a full 2D array.
+  - **removeColumn**: Introduced safe list modification using iterators and index shifting.
+  - **NumberGroup & MultipleGroups**: Tested interfaces and polymorphism, showcasing how an interface can unify different implementations while ensuring flexibility.
+  - Used lists in MultipleGroups to manage various ranges, highlighting dynamic collections in Java.
+
+- **Key Takeaways**:
+  - Reinforced the importance of modular design, encapsulation, and efficient data manipulation.
+  - These concepts are critical for success in the AP exam and real-world programming. :rocket:
+
 
