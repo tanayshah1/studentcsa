@@ -41,7 +41,7 @@ private userStocksTable user_stocks;
 
 ### Flowchart
 
-<img src="{{site.baseurl}}/images/keyfeaturediagram.png" alt="image6">
+<img src="{{site.baseurl}}/images/keyfeaturediagram1.png" alt="image6">
 
 # Frontend Feature: 
 During the migration into the Nighthawk Coders repository, it became immediately clear that the varying styling choices from different teams led to a fragmented, inconsistent, and sometimes unpolished user interface. This lack of uniformity not only created a visually chaotic experience but also made navigating the repository less intuitive for users. As my group had been recognized for having the best UI design, we were tasked with a critical role—developing a universal theme that could be implemented across all projects within the repository. Our goal was to create a cohesive, streamlined aesthetic that would maintain visual consistency, enhance usability, and ultimately elevate the user experience. By aligning design elements such as color schemes, typography, and layout structures, we ensured that every team could easily adopt and implement the new theme.
