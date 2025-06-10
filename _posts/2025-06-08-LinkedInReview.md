@@ -48,6 +48,7 @@ The event emphasized the importance of public speaking, user experience, and res
 # 📊 Stats & Contributions
 
 To support my claims of consistent contribution, please refer to:
+
 <img src="{{site.baseurl}}/images/commits.png" width = 500px height = auto alt="image1">
 <img src="{{site.baseurl}}/images/issues.png" width = 500px height = auto alt="image1">
 
